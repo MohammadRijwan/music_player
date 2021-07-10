@@ -6,6 +6,8 @@ This is a Music Player UI Screen
 
 ![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/MohammadRijwan/music_player/blob/master/assets/tiday%20%E2%80%93%207.png)
 
+Follow me on My YouTube Channel https://www.youtube.com/c/RidzCreations
+
 [Lab: This is Flutter Challenge UI]
 
 This project is a starting point for a Flutter application.
