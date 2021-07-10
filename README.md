@@ -4,6 +4,9 @@ This is a Music Player UI Screen
 
 ## Getting Started
 
+[Lab: This is Flutter Challenge UI]
+https://github.com/MohammadRijwan/music_player/blob/master/assets/Music%20Player.png?raw=true
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
